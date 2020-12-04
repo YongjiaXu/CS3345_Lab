@@ -1,0 +1,13 @@
+form {
+    margin: 2rem;
+    /* width: 10rem; */
+}
+
+#admin {
+    margin-right: 0.5rem;
+    margin-top: 0.8rem;
+}
+
+#admin-label {
+    margin-right: 0.5rem;
+}

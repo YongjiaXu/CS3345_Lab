@@ -1,0 +1,18 @@
+@keyframes spin {
+    from {transform:rotate(0deg);}
+    to {transform:rotate(360deg);}
+  }
+
+  #virus-img {
+      margin-left: 21rem;
+      margin-bottom: -2rem;
+      color: rgb(199, 73, 73);
+  }
+
+  @media(max-width: 1028px) {
+    #virus-img {
+        margin-left: 0rem;
+        margin-bottom: 1rem;
+        color: rgb(199, 73, 73);
+    }
+}

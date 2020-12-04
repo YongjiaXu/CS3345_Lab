@@ -1,0 +1,26 @@
+.table {
+    /* border: solid;
+    margin-left: 1rem;
+    margin-right: 1rem; */
+}
+
+.dashboard {
+    margin: 2%;
+}
+
+.make-shadow:hover {
+    box-shadow: 0 5px 15px rgba(3, 100, 3, 0.274);
+  }
+
+.contentBox {
+    border: 1px solid black;
+    margin-right: 15%;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+
+#virus {
+    color:  rgb(199, 73, 73);
+    margin-right: 0.2rem;
+    margin-bottom: 0.2rem;
+}

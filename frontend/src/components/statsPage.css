@@ -1,0 +1,21 @@
+#dashboard {
+    color: rgb(94, 90, 90);
+    /* text-shadow: 0.02rem 0.02rem  rgb(190, 124, 124); */
+}
+
+#list-item{
+    color: rgb(199, 73, 73);
+}
+
+#virus {
+    margin-bottom: 0.3rem;
+}
+
+#country-title {
+    text-shadow: 0.1rem 0.1rem #888;
+}
+/* 
+.table {
+    margin-right: 4rem;
+    margin-left: 2rem;
+} */

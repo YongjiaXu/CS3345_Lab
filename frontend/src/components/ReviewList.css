@@ -1,0 +1,24 @@
+.jumbotron {
+    font-size: 24pt;
+}
+
+.username{
+    font-size: 18pt;
+    color: grey;
+}
+
+.comment{
+    font-size: 18pt;
+}
+
+.date{
+    font-size: 18pt;
+    color: grey;
+}
+
+.shadow-sm{
+    background-color: #df4759;
+    color: white;
+} 
+
+ 

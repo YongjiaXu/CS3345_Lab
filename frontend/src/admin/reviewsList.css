@@ -1,0 +1,31 @@
+#card-header {
+    height: 3rem;
+}
+
+#thumb {
+    margin-top: -0.3rem;
+}
+
+#thumb-up {
+    margin-top: -0.3rem;
+}
+
+#thumb-down {
+    margin-top: -0.3rem;
+}
+
+#icon-up {
+    margin-right: 0.4rem;
+}
+
+#icon-down {
+    margin-right: 0.4rem;
+}
+
+#thumb-up:hover{
+    color: rgb(98, 166, 197);
+}
+
+#thumb-down:hover{
+    color: rgb(98, 166, 197);
+}

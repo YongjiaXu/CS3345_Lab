@@ -1,0 +1,19 @@
+.jumbotron .card:hover {
+    background-color: rgb(207, 207, 207);
+}
+
+.card-title {
+    color: rgb(95, 94, 94);
+}
+
+.jumbotron {
+    /* height: 100vh; */
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+@media(max-width: 575px) {
+    #admin-hearder{
+        font-size: 2rem;
+    }
+}

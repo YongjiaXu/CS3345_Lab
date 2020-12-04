@@ -1,0 +1,18 @@
+p {
+    font-size: 14pt;
+}
+
+.main{
+    width: 60%;
+    height: 50%;
+    margin-left: 6em;
+    border-radius: 20%;
+}
+
+h1{
+    text-align: center;
+}
+
+.row{
+    padding-left: 2.7em;
+}

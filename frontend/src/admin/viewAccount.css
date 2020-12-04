@@ -1,0 +1,20 @@
+#jumb {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    padding-bottom: 2rem;
+    background-color: rgba(241, 241, 241, 0.692);
+}
+
+#save {
+    width: 10rem;
+    margin-bottom: 1rem;
+}
+
+#return {
+    width: 10rem;
+}
+
+#permission {
+    width: 2rem;
+    height: 2rem;
+}
